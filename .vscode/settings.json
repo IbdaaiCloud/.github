@@ -103,4 +103,7 @@
     "source.organizeImports.biome": "explicit",
     "source.fixAll": "explicit"
   },
+  "[xml]": {
+    "editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+  },
 }

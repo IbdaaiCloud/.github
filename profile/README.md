@@ -1,7 +1,5 @@
 # **IbdaaiCloud** (إبداع كلاود)
 
-<!-- ![IbdaaiCloud Logo](./assets/logo.svg) -->
-
 <div align="center">
   <img src="./assets/logo.svg" alt="IbdaaiCloud Logo" width="500"/>
 </div>
